@@ -29,9 +29,5 @@
 *.swo
 .idea/
 
-/db/schema.rb
-/config/application.yml
-/config/database.yml
-
 # Mac
 .DS_Store
